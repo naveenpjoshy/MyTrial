@@ -12,7 +12,7 @@ import java.util.Scanner;
  * Items have a name and a price. The possible items are listed in the
  * array called Candies. Use this code to answer questions
  * B.1 and B.2 in the midterm review.
- * @author dancye, 2019
+ * @author Denbin Jose, 2019
  */
 public class VendingMachineItem 
 {
@@ -22,7 +22,7 @@ public class VendingMachineItem
     {
         //intentionally left blank
     }
-    
+    blah blah blah
     /**
      * A getter method to return the item's price
      * @return the cost of the item
